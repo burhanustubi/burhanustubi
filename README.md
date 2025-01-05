@@ -43,7 +43,6 @@ At my own company, I design personalized products and simple advertising solutio
 ## 🌟 Contact Me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/burhanustubi/)  
-🐙 [GitHub](http://github.com/burhanustubi)  
 ✉️ [Email](mailto:burhanustubi@gamail.com)
 
 
